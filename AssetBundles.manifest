@@ -1,10 +1,10 @@
 ManifestFileVersion: 0
-CRC: 3677803484
+CRC: 2263757261
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: testbundle
       Dependencies: {}
     Info_1:
-      Name: treeprefab
+      Name: someassets
       Dependencies: {}
